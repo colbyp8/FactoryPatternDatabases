@@ -1,0 +1,14 @@
+C:\Users\cbpat\Desktop\repos\FactoryPatternDatabases\FactoryPatternDatabases\bin\Debug\netcoreapp3.1\FactoryPatternDatabases.exe
+C:\Users\cbpat\Desktop\repos\FactoryPatternDatabases\FactoryPatternDatabases\bin\Debug\netcoreapp3.1\FactoryPatternDatabases.deps.json
+C:\Users\cbpat\Desktop\repos\FactoryPatternDatabases\FactoryPatternDatabases\bin\Debug\netcoreapp3.1\FactoryPatternDatabases.runtimeconfig.json
+C:\Users\cbpat\Desktop\repos\FactoryPatternDatabases\FactoryPatternDatabases\bin\Debug\netcoreapp3.1\FactoryPatternDatabases.runtimeconfig.dev.json
+C:\Users\cbpat\Desktop\repos\FactoryPatternDatabases\FactoryPatternDatabases\bin\Debug\netcoreapp3.1\FactoryPatternDatabases.dll
+C:\Users\cbpat\Desktop\repos\FactoryPatternDatabases\FactoryPatternDatabases\bin\Debug\netcoreapp3.1\FactoryPatternDatabases.pdb
+C:\Users\cbpat\Desktop\repos\FactoryPatternDatabases\FactoryPatternDatabases\obj\Debug\netcoreapp3.1\FactoryPatternDatabases.csproj.AssemblyReference.cache
+C:\Users\cbpat\Desktop\repos\FactoryPatternDatabases\FactoryPatternDatabases\obj\Debug\netcoreapp3.1\FactoryPatternDatabases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbpat\Desktop\repos\FactoryPatternDatabases\FactoryPatternDatabases\obj\Debug\netcoreapp3.1\FactoryPatternDatabases.AssemblyInfoInputs.cache
+C:\Users\cbpat\Desktop\repos\FactoryPatternDatabases\FactoryPatternDatabases\obj\Debug\netcoreapp3.1\FactoryPatternDatabases.AssemblyInfo.cs
+C:\Users\cbpat\Desktop\repos\FactoryPatternDatabases\FactoryPatternDatabases\obj\Debug\netcoreapp3.1\FactoryPatternDatabases.csproj.CoreCompileInputs.cache
+C:\Users\cbpat\Desktop\repos\FactoryPatternDatabases\FactoryPatternDatabases\obj\Debug\netcoreapp3.1\FactoryPatternDatabases.dll
+C:\Users\cbpat\Desktop\repos\FactoryPatternDatabases\FactoryPatternDatabases\obj\Debug\netcoreapp3.1\FactoryPatternDatabases.pdb
+C:\Users\cbpat\Desktop\repos\FactoryPatternDatabases\FactoryPatternDatabases\obj\Debug\netcoreapp3.1\FactoryPatternDatabases.genruntimeconfig.cache

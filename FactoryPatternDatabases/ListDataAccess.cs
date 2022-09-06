@@ -1,0 +1,26 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace FactoryPatternDatabases
+{
+    public class ListDataAccess : IDataAccess
+    {
+        public static List<Product> Products = new List<Product>()
+        {
+            new Product (){Name = "Xbox", Price = 350},
+                        new Product (){Name = "PS4", Price = 320},
+                                    new Product (){Name = "Laptop", Price = 1500},
+                                                new Product (){Name = "Desk", Price = 799}
+        };
+        public List<Product> LoadData()
+        {
+            Console.WriteLine("I am reading data from List database.");
+            return Products;
+        }
+        public void SaveData()
+        {
+            Console.WriteLine("I am saving data to a List database.");
+        }
+    }
+}
